@@ -1,3 +1,11 @@
+/**
+ * ReadNCAA
+ *
+ * 		Kyle Vigil
+ * Reads the file of seeds
+ */
+
+
 import java.util.Scanner;
 import java.io.*;
 
